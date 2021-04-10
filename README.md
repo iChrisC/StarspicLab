@@ -1,9 +1,9 @@
 # Starspic 
 本页不定期更新，随时获取有关Starspic的信息资讯！<br>
 #    Starspic 下载地址
-### [点此跳转]( http://link.i327.xin/app)
+### [点此跳转]( http://link.starspic.cn/app)
 #   Starspic 聚合页
-### [点此跳转]( http://link.i327.xin/qr)
+### [点此跳转]( http://link.starspic.cn/qr)
 
 <br>
 
@@ -77,7 +77,7 @@ Starspic可能会真诚地披露您的个人资料，相信此类行为是必要
 根据本隐私政策，您可以从您的每台设备上注销账户并卸载所有应用程序并停止使用本网站，从而永远自由地选择不参与将来在软件内收集您的个人信息。 <br>
 9、支持 <br>
 如果您对本隐私政策有任何疑问，请联系我们： <br>
-通过邮件：support@i327.xin  <br>
+通过邮件：ichrisc@starspic.cn  <br>
 通过QQ：1641356248  <br>
 通过电话： +1-234-200-0977  <br>
 10、对此隐私策略的更改我们可能会不时更新我们的隐私政策。<br>
